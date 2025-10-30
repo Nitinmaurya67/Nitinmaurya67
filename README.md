@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maurya</h1>
+<h1 align="center">Hi 👋, I'm Nitin Maurya</h1>
 <h3 align="center">🚀 Aspiring Data Scientist & Machine Learning Enthusiast | Passionate Web Developer</h3>
 
 <p align="center">
